@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23f1fd6c-47f4-46f3-a7fa-129da3cad7e1" alt="2025 Day 1 Visualization" width="600">
+  <img src="https://github.com/user-attachments/assets/06ba31c0-c46e-4aad-bbbb-a9f5f481d57d" alt="2025 Day 4 Visualization" width="600">
 </p>
+
+
 
 
 # Highlights
@@ -27,3 +29,7 @@
   * Be careful with boundary cells when checking neighbors.
   * Visualizing a few iterations helps debug which rolls become accessible next.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23f1fd6c-47f4-46f3-a7fa-129da3cad7e1" alt="2025 Day 1 Visualization" width="600">
+</p>
