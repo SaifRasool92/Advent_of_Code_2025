@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23f1fd6c-47f4-46f3-a7fa-129da3cad7e1" alt="2025 Day 1 Visualization" width="600">
+</p>
+
+
 # Highlights
 
 * Scene: rolls of paper are placed on a grid using @ for rolls and . for empty spaces.
@@ -21,3 +26,4 @@
   * Each full scan is O(rows * cols). Part 2 may need many iterations, worst case O(rows * cols * iterations). Use a queue or track frontier of changed neighbors to speed it up.
   * Be careful with boundary cells when checking neighbors.
   * Visualizing a few iterations helps debug which rolls become accessible next.
+
