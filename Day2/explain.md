@@ -1,3 +1,10 @@
+
+<video src="https://github.com/user-attachments/assets/980f9600-aeae-4680-89b0-db7970c6928c" controls width="600">
+Your browser does not support the video tag.
+</video>
+
+
+
 Here are the clean, sharp highlights you need:
 
 **Part One Highlights**
@@ -16,3 +23,4 @@ Here are the clean, sharp highlights you need:
 • Additional IDs appear because of longer repetition patterns.
 • Example sum becomes **4174379265**.
 • Your final answer is whatever you computed for the extended rule set.
+
