@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0dabc0bd-8832-4eba-8751-0732538e8ac2" alt="2025 Day 3 Visualization" width="600">
+  <img src="https://github.com/user-attachments/assets/0dabc0bd-8832-4eba-8751-0732538e8ac2" alt="2025 Day 3 Visualization" width="100%">
 </p>
 
 
@@ -20,5 +20,6 @@
 • Strategy: skip the smallest digits while keeping the sequence length at 12.
 • Example total for the sample: **3121910778619**.
 • Your task: compute this total for your full input.
+
 
 
