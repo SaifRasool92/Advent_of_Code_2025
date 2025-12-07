@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d97ac248-33b5-4da2-b915-96f82e1c6ab0" alt="2025 Day 6 Visualization" width="600">
+</p>
 
 **Day 6 Highlights: Trash Compactor**
 
@@ -21,3 +24,4 @@
 • Build numbers by reading digits from top to bottom of each vertical column.
 • The operator at the bottom still decides whether to add or multiply the formed numbers.
 • Solve all problems again and add the results for the new grand total.
+
