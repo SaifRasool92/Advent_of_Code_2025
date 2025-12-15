@@ -2,7 +2,7 @@
 <img width="1767" height="264" alt="Advent of Code 2025" src="https://github.com/user-attachments/assets/d12e5664-6095-4f6f-92b6-2762d98d8ed0" />
 
 <br>
-<br>
+
 This repository contains my daily solutions for Advent of Code 2025. Each solution is written with clarity, structure, and problem-solving in mind, reflecting a consistent approach to improving coding skills.
 
 ## Structure
